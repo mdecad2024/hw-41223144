@@ -4,7 +4,7 @@ template 網站: https://mde.tw/cad2024_hw
 
 使用者: 41223144
 
-作業網站: 
+作業網站: https://mdecad2024.github.io/hw-41223144
 
 作業倉儲: https://github.com/mdecad2024/hw-41223144
 
